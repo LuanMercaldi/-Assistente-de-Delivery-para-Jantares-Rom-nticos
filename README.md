@@ -1,4 +1,19 @@
-# 🍷🧀 **Assistente de Delivery para Jantares Românticos**
+<p align="center">
+    <img width="300px" src=".github/assets/logo_2.png">
+</p>
+
+<p align="center">
+<a href="https://www.dio.me/users/luanwp" title="Curriculum"><img src="https://img.shields.io/badge/DIO-Curriculum-FED564"></a>
+<a href="https://www.linkedin.com/in/luan-mercaldi-88080890/" title="Profile"><img src="https://img.shields.io/badge/LinkedIn-Profile-FED564?"></a>
+<a href="https://chatgpt.com/" title="Powered by ChatGpt">
+  <img src="https://img.shields.io/badge/Powered%20by-ChatGPT-FED564?">
+</a>
+</p>
+
+<p align="center">
+  <h3 align="center">🍷🧀 Assistente de Delivery para Jantares Românticos</h3>
+
+
 
 > **Status do Projeto**: 🚧 Em Desenvolvimento 👷‍♂️
 
@@ -49,5 +64,24 @@ Se você tiver ideias para melhorar o assistente ou quiser contribuir de alguma 
 
 ---
 
-### 🧑‍💻 **Desenvolvedores**
-- **Luan Willian Ponchio Mercaldi** - *Projeto em desenvolvimento como parte do portfólio pessoal.*
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/user-attachments/assets/445d5b33-1db7-4cb4-a54b-a11a691de257"
+    />
+    <p>&nbsp&nbsp&nbspLuan Mercaldi<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://www.dio.me/users/luanwp">
+    DIO</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/luan-mercaldi-88080890/">LinkedIn</a>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Luan Mercaldi](https://github.com/LuanMercaldi)
