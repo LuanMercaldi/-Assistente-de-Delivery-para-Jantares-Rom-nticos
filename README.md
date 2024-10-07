@@ -1,5 +1,3 @@
----
-
 # 🍷🧀 **Assistente de Delivery para Jantares Românticos**
 
 > **Status do Projeto**: 🚧 Em Desenvolvimento 👷‍♂️
