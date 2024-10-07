@@ -51,7 +51,3 @@ Se você tiver ideias para melhorar o assistente ou quiser contribuir de alguma 
 
 ### 🧑‍💻 **Desenvolvedores**
 - **Luan Willian Ponchio Mercaldi** - *Projeto em desenvolvimento como parte do portfólio pessoal.*
-
----
-
-Essa estrutura segue um formato nerd e divertido, porém informativo, o que torna a leitura leve e acessível, mas mantendo um nível de detalhamento técnico adequado.
